@@ -1,8 +1,8 @@
 {
   "id": "blackrose11",
   "name": "BLACK ROSEちほー11",
-  "comment": "Tristan 蒙受的杀人嫌疑。追查此事的 Owl 侦探事务所一行人的去向是？",
-  "area": "既是炼金术师又是侦探的 Owl。\n在与追查黑蔷薇病的过程中结识的伙伴们一起，不断解开种种谜团。\n本次是关于将世界卷入战火的『福音』的故事。",
+  "comment": "Tristan 蒙受的杀人嫌疑。追查此事的 Aul 侦探事务所一行人的去向是？",
+  "area": "既是炼金术师又是侦探的 Aul。\n在与追查黑蔷薇病的过程中结识的伙伴们一起，不断解开种种谜团。\n本次是关于将世界卷入战火的『福音』的故事。",
   "youtubeID": "kEaDYTmfRdI",
   "characters": [
     {
@@ -35,21 +35,21 @@
     },
     {
       "name": "Hanna",
-      "summary": "Tristan 家的女仆。虽然态度冷淡，Owl 来访时总是以一脸麻烦的样子迎接，但每次都会端上堆得满满的司康饼来招待。似乎在背地里练习微笑。",
+      "summary": "Tristan 家的女仆。虽然态度冷淡，Aul 来访时总是以一脸麻烦的样子迎接，但每次都会端上堆得满满的司康饼来招待。似乎在背地里练习微笑。",
       "title1": "身長",
       "item1": "154cm",
       "title2": "誕生日",
       "item2": "9月2日",
       "title3": "血液型",
       "item3": "O",
-      "serif": "您还真是老样子乱糟糟的呢，\nOwl 大人。看来您一点都没变。",
+      "serif": "您还真是老样子乱糟糟的呢，\nAul 大人。看来您一点都没变。",
       "team": "Tristan 家",
       "illustrator": "Shikimi",
       "img": "03"
     },
     {
       "name": "Byron",
-      "summary": "曾是 Mistoltein 的酒保，在 Teos 岛暴露真面目之后从 Owl 等人面前消失了。现在似乎潜伏在某处。",
+      "summary": "曾是 Mistoltein 的酒保，在 Teos 岛暴露真面目之后从 Aul 等人面前消失了。现在似乎潜伏在某处。",
       "title1": "身長",
       "item1": "185cm ",
       "title2": "誕生日",
@@ -68,7 +68,7 @@
       "artist": "大漠波新 feat. Wotamin",
       "movie": "Tsutsumi Hideaki",
       "illustrator": "Shikimi",
-      "songsummary": "由 Ralf 和 Hanna 陪同，造访 Owl 侦探事务所的客人。\r\n他的委托是澄清 Tristan 所背负的杀人嫌疑。\r\n还有另一件事。\r\n关于被称为『福音』的、都市传说般的流言。\r\n\r\n骤然变得风雨飘摇的世界局势。\r\n据说在其背后，有着将人们导向争斗的某篇文章存在。\r\n\r\n在追查 Tristan 嫌疑的过程中，Owl 等人逐渐被卷入重大事件的漩涡。",
+      "songsummary": "由 Ralf 和 Hanna 陪同，造访 Aul 侦探事务所的客人。\r\n他的委托是澄清 Tristan 所背负的杀人嫌疑。\r\n还有另一件事。\r\n关于被称为『福音』的、都市传说般的流言。\r\n\r\n骤然变得风雨飘摇的世界局势。\r\n据说在其背后，有着将人们导向争斗的某篇文章存在。\r\n\r\n在追查 Tristan 嫌疑的过程中，Aul 等人逐渐被卷入重大事件的漩涡。",
       "thumbnail": "blackrose11-1"
     },
     {
